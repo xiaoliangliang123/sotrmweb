@@ -1,0 +1,24 @@
+2019-08-22 19:15:39.681 [main] INFO  com.storm.stormweb.StormwebApplication - Starting StormwebApplication on DESKTOP-USRTR08 with PID 2188 (D:\code\04\stormweb\target\classes started by Administrator in D:\code\04\stormweb)
+2019-08-22 19:15:39.685 [main] INFO  com.storm.stormweb.StormwebApplication - The following profiles are active: dev
+2019-08-22 19:15:40.883 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8098 (http)
+2019-08-22 19:15:40.899 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8098"]
+2019-08-22 19:15:40.915 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 19:15:40.915 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-22 19:15:41.100 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 19:15:41.100 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1361 ms
+2019-08-22 19:15:41.300 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-22 19:15:41.565 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8098"]
+2019-08-22 19:15:41.601 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8098 (http) with context path ''
+2019-08-22 19:15:41.601 [main] INFO  com.storm.stormweb.StormwebApplication - Started StormwebApplication in 2.635 seconds (JVM running for 8.737)
+2019-08-22 19:15:53.942 [main] INFO  com.storm.stormweb.StormwebApplication - Starting StormwebApplication on DESKTOP-USRTR08 with PID 6040 (D:\code\04\stormweb\target\classes started by Administrator in D:\code\04\stormweb)
+2019-08-22 19:15:53.946 [main] INFO  com.storm.stormweb.StormwebApplication - The following profiles are active: dev
+2019-08-22 19:15:54.891 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8018 (http)
+2019-08-22 19:15:54.907 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8018"]
+2019-08-22 19:15:54.915 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 19:15:54.915 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-22 19:15:55.020 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 19:15:55.020 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1027 ms
+2019-08-22 19:15:55.216 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-22 19:15:55.431 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8018"]
+2019-08-22 19:15:55.454 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8018 (http) with context path ''
+2019-08-22 19:15:55.458 [main] INFO  com.storm.stormweb.StormwebApplication - Started StormwebApplication in 1.943 seconds (JVM running for 3.562)
